@@ -19,7 +19,8 @@ class Solution(object):
         return result
 
 
-# Manual input testing
+
 Solution()
 x = int(input("Enter a number: "))
 print("Reversed:", Solution().reverse(x))
+
